@@ -6,6 +6,16 @@ This is a redesign based on the Salveoo's Magprobe for KW11/KW-12/KW-4 microswit
 ## YouTube Video (Playable):
 [![YouTube Video](https://i.ytimg.com/vi/WUqhr0og7ug/maxresdefault.jpg)](https://www.youtube.com/watch?v=WUqhr0og7ug)
 
+## Bill of Materials:
+| Part Name | Quantity |
+| :--- | :---: |
+| SG90 9g servo | 1 |
+| KW11(or compatible) micro switch | 1 |
+| M2 Self Tapping Screw | 4 |
+| M3 8mm Socket Head Screw | 4 |
+| M3 8mm Button Head Screw | 2 |
+| 6mmx3mm round N45 magnets | 5 |
+
 ## Gallery:
 ![dock ](https://github.com/Kruze17/Magprobe-HX/blob/main/Images/dock.gif)
 ![model](https://github.com/Kruze17/Magprobe-HX/blob/main/Images/Model_HDR.jpg)
