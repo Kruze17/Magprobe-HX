@@ -12,6 +12,7 @@ This is a redesign based on the Salveoo's Magprobe for KW11/KW-12/KW-4 microswit
 | SG90 9g servo | 1 |
 | KW11(or compatible) micro switch | 1 |
 | M2 Self Tapping Screw | 4 |
+| M3 t-nut for 2020 extrusion | 3 |
 | M3 8mm Socket Head Screw | 4 |
 | M3 8mm Button Head Screw | 2 |
 | 6mmx3mm round N45 magnets | 5 |
