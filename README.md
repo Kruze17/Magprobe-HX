@@ -6,5 +6,7 @@ This is a redesign based on the Salveoo's Magprobe for KW11/KW-12/KW-4 microswit
 ## YouTube Video (Playable):
 [![YouTube Video](https://i.ytimg.com/vi/WUqhr0og7ug/maxresdefault.jpg)](https://www.youtube.com/watch?v=WUqhr0og7ug)
 
-![dock (1)](https://github.com/user-attachments/assets/895781bd-ede6-4909-b9e2-5aa0eedb0d4c)
+## Gallery:
+![dock ](https://github.com/Kruze17/Magprobe-HX/blob/main/Images/dock.gif)
+![model](https://github.com/Kruze17/Magprobe-HX/blob/main/Images/Model_HDR.jpg)
 
